@@ -1,2 +1,2 @@
 # ECGR-2254-Project-1
-Analytical Foundations of Computer and Electrical Engineering Project 1
+This is the first project for the first project of the ECGR 2254 class with Dr. Cox.
